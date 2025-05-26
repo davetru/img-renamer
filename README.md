@@ -112,3 +112,8 @@ MIT License — free for personal and commercial use.
 ## 🧑‍💻 Author
 
 Created by Dave Tran. Built for ease, simplicity, and clean photo folders.
+
+## 🧠 Acknowledgments
+
+Thanks to the Pillow library for making image processing fun and flexible!
+
